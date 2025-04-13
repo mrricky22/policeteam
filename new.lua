@@ -21,7 +21,7 @@ local scriptToRun = [[
     
     -- Once the game is loaded, run the external script
     wait(2)
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/mrricky22/testdijskfb/refs/heads/main/new.lua"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/mrricky22/policeteam/refs/heads/main/new.lua"))()
 ]]
 
 -- Function to calculate total money for Police team
